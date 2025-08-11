@@ -1,19 +1,45 @@
-# Bus-Ticketing-System-Java-Jsp-project
-Java, JSP and MySQL Project on Bus Ticket Booking System
-<h1>Project Demo</h1>
-https://youtu.be/3uQ0uITLEGg
+# SBSA ticket booking system
+# 🚍 Smart Bus Ticketing System
 
-# Developed By : Md Rukon Shekh 
-# Language : Java,Jsp,HTML,CSS,Javascript,html,css,ajax,jquery,mysql
-# IDE : Eclipse Jee
-# Server: tomcat
-# Database : mysql
+## 📌 Overview
+The **Smart Bus Ticketing System** is a Java-based web application designed to make the bus ticket booking process faster, easier, and more efficient.  
+It allows passengers to view available buses, book tickets, and make payments online, while enabling bus companies to manage schedules, routes, and reservations seamlessly.
 
-I have developed Bus ticket reservation project in my 10th semester. This ticket reservation system project source code for BE, Btech, mca, bca, engineering, bs cs, IT, software engineering final year students can submits source code in collage or university. I have uploaded full project source code with database in github. you can download this bus booking system for free. 
+This project was built using **Java, JSP, Servlets, MySQL**, and follows an MVC-based architecture for better scalability and maintainability.
 
-# Bus Ticket Booking System Java and Jsp Project free download with source code
+---
 
-#tags
-<h2>final year projects for computer science</h2>
-<h2>mini projects for computer science students</h2>
-<h2>final year project ideas computer science</h2>
+## ✨ Features
+- 🚌 **Bus Schedule Management** – Add, update, and remove bus routes and timings.
+- 🎟 **Ticket Booking** – Passengers can book and cancel tickets online.
+- 💳 **Secure Payments** – Payment integration for online ticket purchases.
+- 👥 **User Accounts** – Separate login for Admin and Passenger.
+- 📊 **Reports & Analytics** – Admin can view booking statistics and revenue reports.
+- 🔐 **Authentication & Authorization** – Secure login system for both admin and users.
+
+---
+
+## 🛠 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, JSP
+- **Backend:** Java, Servlets
+- **Database:** MySQL
+- **Server:** Apache Tomcat
+- **Architecture:** MVC Pattern
+
+---
+
+## 📂 Project Structure
+Smart-Bus-Ticketing-System/
+│── src/ # Java source files
+│── WebContent/ # JSP pages, CSS, JS, and other static files
+│── database/ # Database scripts (MySQL)
+│── README.md # Project documentation
+## Setup Instructions
+Clone the Repo
+git clone https://github.com/Shyakammik/SBSA_web.git
+
+---
+
+## Developer
+Built with by Mike Shyaka
+s.mike@alustudent.com
